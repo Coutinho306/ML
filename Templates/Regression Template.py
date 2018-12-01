@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# # Regression Template
+# # Regression Templates
 
 # ### Importing Libraries
 
